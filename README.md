@@ -1,7 +1,6 @@
 # chart-demo
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This code is the code I wrote in [this screencast](https://eaf4.com/dynamic-import-into-your-ember-app/).
 
 ## Prerequisites
 
